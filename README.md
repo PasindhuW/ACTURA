@@ -56,7 +56,7 @@ Just clone the repo and dive in — have fun exploring ACTURA! 🎮
 
 ---
   
-### Pitch Deck, Pitch Video & Demo Video
+## Pitch Deck, Pitch Video & Demo Video
 
 You can view or download the Pitch Deck, Pitch Video, and Demo Video through the links below:
 
